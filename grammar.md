@@ -398,11 +398,11 @@ We can often say things in two ways, in the active or the passive.
 
    Compare:
 
-   The royal family **owns** Windsor Castle.
+   The royal family `owns` Windsor Castle.
 
    (**Active:** The focus is more on the owner.)
 
-   Windsor Castle **is owned** by the royal family.
+   Windsor Castle `is owned` by the royal family.
 
    (**Passive:** The focus is more on the castle. )
 
