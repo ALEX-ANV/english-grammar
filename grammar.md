@@ -25,73 +25,6 @@
   The neighbors must be out. There aren’t any lights on in the house.
   Your sister must have a lot of money if she drives a Porsche.
 
-# The Passive Voice
-
-**active** sentence like **I drank two cups of coffee** has the subject first (the person or thing that does the verb), followed by the verb, and finally the object (the person or thing that the action happens to).
-
-So, in this example, the subject is 'I', the verb is 'drank' and the object is 'two cups of coffee'.
-But, we don't always need to make sentences this way. We might want to put the object first, or perhaps we don't want to say who did something. This can happen for lots of reasons (see the explanation further down the page). In this case, we can use a passive, which puts the object first:
-Two cups of coffee were drunk (we can add 'by me' if we want, but it isn't necessary).
-
-## How to make the Passive in English
-
-> We make the passive by putting the verb 'to be' into whatever tense we need and then adding the past participle. For regular verbs, we make the past participle by adding 'ed' to the infinitive. So _play_ becomes _played_.
-
-| Tense                  | Active                     | Passive                             |
-| ---------------------- | -------------------------- | ----------------------------------- |
-| present simple         | I make a cake.             | A cake is made (by me).             |
-| present continuous     | I am making a cake.        | A cake is being made (by me).       |
-| past simple            | I made a cake.             | A cake was made (by me).            |
-| past continuous        | I was making a cake.       | A cake was being made (by me).      |
-| present perfect        | I have made a cake.        | A cake has been made (by me).       |
-| pres. perf. continuous | I have been making a cake. | A cake has been being made (by me). |
-| past perfect           | I had made a cake.         | A cake had been made (by me).       |
-| future simple          | I will make a cake.        | A cake will be made (by me).        |
-| future perfect         | I will have made a cake.   | A cake will have been made (by me). |
-
-## Verbs with two objects
-
-> Some verbs that have two objects can make two different active sentences, and so two different passive sentences too:
-
-Give
-
-- Active: He gave me the book / He gave the book to me.
-  You can choose either of the two objects to be the subject of the passive sentence.
-- Passive: I was given the book (by him)/ The book was given to me (by him).
-  Other verbs like this are: ask, offer, teach, tell, lend, promise, sell, throw.
-
-## The passive in subordinate clauses
-
-> You can make the passive in a subordinate clause that has a subject and a normal conjugated verb. This is really the same as a normal passive.
-
-- Active: I thought that Mary had kissed John.
-- Passive: I thought that John had been kissed by Mary.
-- Active: He knew that people had built the church in 1915.
-- Passive: He knew that the church had been built in 1915.
-  You can also make the passive using a passive gerund or a passive infinitive in the same place as a normal gerund or infinitive.
-- The child loves being cuddled.
-- She would like to be promoted.
-
-## When should we use the Passive?
-
-1. When we want to change the focus of the sentence:
-
-   The Mona Lisa was painted by Leonardo Da Vinci. (We are more interested in the painting than the artist in this sentence)
-
-2. When who or what causes the action is unknown or unimportant or obvious or 'people in general':
-   - He was arrested (obvious agent, the police).
-   - My bike has been stolen (unknown agent).
-   - The road is being repaired (unimportant agent).
-   - The form can be obtained from the post office (people in general).
-3. In factual or scientific writing:
-   - The chemical is placed in a test tube and the data entered into the computer.
-4. In formal writing instead of using someone/ people/ they (these can be used in speaking or informal writing):
-   - The brochure will be finished next month.
-5. In order to put the new information at the end of the sentence to improve style:
-   - Three books are used regularly in the class. The books were written by Dr. Bell. ('Dr. Bell wrote the books' sound clumsy)
-6. When the subject is very long:
-   - I was surprised by how well the students did in the test. (More natural than: 'how well the students did in the test surprised me')
-
 # Past and present habits and states
 
 1. I **used to teach** English when I was living abroad.
@@ -428,6 +361,8 @@ _Examples:_
 
 # Passive voice
 
+[Perfect English Grammar](https://www.perfect-english-grammar.com/passive.html)
+
 ## forms of the passive
 
 | Tense                        | Form                                                                                              |
@@ -442,3 +377,43 @@ _Examples:_
 | **infinitive with to**       | The city centre has `to be closed` to all traffic next weekend.                                   |
 | **infinitive without to**    | The President must `be elected` by a clear majority                                               |
 | **gerund**                   | Most people hate `being woken up` in the middle of the night.                                     |
+
+- We often use the passive when it's not said, known, or important who does an action. My phone has been stolen. (= Somebody has stolen my phone, but we don't know who.)
+- If we want to say who did an action in a passive structure, we use by. _The Sagrada Familia was designed by Antoni Gaudi._
+- The subject of a passive sentence can be the direct or the indirect object, e.g.
+
+  **Active**: _They are going to give **us** (indirect object) **our exam results** (direct object) tomorrow._
+
+  **Passive** _We are going to be given our exam results tomorrow. **OR** Our exam results are going to be given to us tomorrow_
+
+- We often use the passive to talk about processes, for example, scientific processes, and in formal writing, such as newspaper reports.
+
+  _The chemicals are combined at very high temperatures. Parts of Windsor Castle have been damaged in a fire._
+
+## Active or passive?
+
+We can often say things in two ways, in the active or the passive.
+
+1. Using active or passive changes the focus.
+
+   Compare:
+
+   The royal family **owns** Windsor Castle.
+
+   (**Active:** The focus is more on the owner.)
+
+   Windsor Castle **is owned** by the royal family.
+
+   (**Passive:** The focus is more on the castle. )
+
+2. The passive is often used for a more formal style.
+
+   Compare:
+
+   They `grow` rice in Valencia.
+
+   (**Active:** informal - they = people, farmers)
+
+   Rice `is grown` in Valencia.
+
+   (**Passive:** a more formal style)
