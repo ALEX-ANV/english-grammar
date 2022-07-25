@@ -162,6 +162,16 @@ Give
 
 # Prepositions
 
+[Watch video](https://www.youtube.com/watch?v=NTrvUvlPdXM)
+
+## prepositions of collocations
+
+[Watch video](https://www.perfect-english-grammar.com/preposition-collocations-1.html)
+
+## prepositions of time
+
+[Watch video](https://www.perfect-english-grammar.com/prepositions-of-time.html)
+
 ## prepositions of place
 
 > Prepositions that describe place, like _in_ and _on_, can be used with different verbs and places and the meaning doesn't change.
@@ -254,6 +264,102 @@ _Examples:_
 
 4. Whe _who / what / which_, etc., is the **subject** of questions in the present or past simple, we don't use _do_ / _did_ e.g. _Who wrote this?_ **NOT** ~~Who did write this?~~
 
+## indirect questions
+
+> Could you tell ne **what time the shop next door opens**?
+>
+> Do you know **if (whether) Mark's coming to the meeting**?
+
+- We use indirect questions when we want to ask a question in a more polite way.
+  We begin with a phrase such as _Can / Could you tell me...? Do you know...? Do you think...? Do you remember...? Would you mind telling me...? Do you have any ides...?_
+
+- Compare:
+
+  What time does the post office open? (direct question) and _Could you tell me what time the post office opens?_ (indirect question)
+
+- In indirect questions, the order is subject + verb. _Can you tell me where **it is**?_ **NOT** ~~Can you tell me where **is it**?~~
+
+- We don't use _do / did_ in the second part of the question. _Do you know where he lives?_ **NOT** ~~...where does he live?~~
+
+- You can use _if_ or _whether_ in questions without a question word and after:
+  _Can you tell me, Do you know, etc._
+
+> **Other expressions followed by the word order of indirect questions**
+>
+> _The word order of indirect questions is used after:_
+>
+> _I wonder ..., e.g. **I wonder** why they didn't come._
+>
+> _I'm not sure..., e.g. **I'm not** sure what time is starts._
+>
+> _I can't remember..., e.g. **I can't remember** where I left my phone._
+>
+> _I'd like to know..., e.g. **I'd like to know** what time you're coming home._
+
+# Phrasal verbs
+
+## **Type 1** - phrasal verbs with no object
+
+> Some phrasal verbs have no object. The verb and the particle can't be separated.
+> **NOT** ~~I get at 6.00 up.~~
+
+- I **get up** at 6.00.
+
+- I'm going to **be away** for three days next week.
+
+- What time are you **coming back** tonight?
+
+- They **set off** early in the morning.
+
+- The plane **took off** late, but we still arrived on time.
+
+## **Type 2** - phrasal verbs with an object - separable
+
+> 1. Some phrasal verbs have an object and can be separated - we can put the object before or after the particle.
+>
+> 2. If the object is a pronoun (_it, them_, etc.), it _always_ goes between the verb and the particle.
+>
+> _I switched it off_. **NOT** ~~_I switched off it._~~
+
+1. Can you _fill_ this bank form _in?_
+
+   Can you _fill in_ this bank form?
+
+   Please _put_ your clothes _away_.
+
+   Please _put away_ your clothes.
+
+   Did you _switch_ the computer _off_?
+
+   Did you _switch off_ the computer?
+
+2. Can you _fill_ it _in_?
+
+   Please _put_ them _away_.
+
+   Did you _switch_ it _off_?
+
+## **Type 3** - phrasal verbs with an object - inseparable
+
+> 1. Some phrasal verbs have an object but can't be separated - the verb and the particle must stay together, even if the object is a pronoun.
+>
+>    _We take after our father. We take after him._
+>
+>    **NOT** ~~_We take our father after. We take him after_~~
+>
+> 2. Some phrasal verbs have two particles - they are never separated.
+
+1. My sister and I both **take after** our father.
+
+   - A. Where's your phone?
+   - B. I don't know. I'm **looking for** it.
+   - A. How are you managing until you find a job?
+   - B. We're **living on** my wife's salary.
+
+2. My boyfriend doesn't **get on with** his parents.
+
+   Jane's **looking forward** to her holiday.
+
 # Verb patterns
 
 ## **infinitive with to**
@@ -315,3 +421,24 @@ _Examples:_
 
 - We use an object + the infinitive with to after some verbs. **NOT** ~~They want that we go with them.~~
 - We use an object + the infinitive without to after _let_ and _make_.
+
+# Pronunciation
+
+[Watch video](https://www.engvid.com/english-pronunciation-for-russian-speakers/)
+
+# Passive voice
+
+## forms of the passive
+
+| Tense                        | Form                                                                                              |
+| ---------------------------- | ------------------------------------------------------------------------------------------------- |
+| **present simple**           | The site `is visited` by thousands of people every year.                                          |
+| **present continuous**       | The castle `is being restored` at the moment.                                                     |
+| **present perfect**          | The King's body `has never been found`.                                                           |
+| **past simple**              | 10,000 soldiers `were killed` in an hour at the Battle of Gettysburg.                             |
+| **past continuous**          | The bridge was closed because it `was being repaired`.                                            |
+| **past perfect**             | The hospital `had been opened` by the Queen three years before.                                   |
+| **_will_ and _be going to_** | When `will` the new museum `be built`? <br> We `are going to be given` our exam results tomorrow. |
+| **infinitive with to**       | The city centre has `to be closed` to all traffic next weekend.                                   |
+| **infinitive without to**    | The President must `be elected` by a clear majority                                               |
+| **gerund**                   | Most people hate `being woken up` in the middle of the night.                                     |
