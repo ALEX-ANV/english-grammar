@@ -427,3 +427,212 @@ Every English sentence must have a `VERB`. The verb could be classified as dynam
 ---
 
 `DYNAMIC VERBS` describe action. Examples are **_run_**, **_jump_**, **_work_**, **_play_**, **_eat_**, or **_drink_**. They are the most common type of verb and can be used correctly in all verb tenses and aspects. They are usually the easiest to learn.
+
+| Tense              | Example                                                                  |
+| ------------------ | ------------------------------------------------------------------------ |
+| simple             | I run. <br>I ran. <br> I will run.                                       |
+| continuous         | I am running. <br>I was running.<br>I will be running.                   |
+| perfect            | I have run.<br>I had run.<br>I will have run.                            |
+| perfect continuous | I have been running.<br>I had been running.<br>I will have been running. |
+
+`STATIVE VERBS` describe states or conditions. Examples are **_know_**, **_believe_**, or **_understand_**. These verbs can be used in simple and perfect tenses and aspects. However, they cannot be used in the continuous or progressive forms. This limitation makes stative verbs a little more difficult to master, which means practice is necessary.
+
+### STATIVE VERBS – CORRECT USAGE
+
+| Tense   | Example                                             |
+| ------- | --------------------------------------------------- |
+| simple  | I know.<br>I knew.<br>I will know.                  |
+| perfect | I have known.<br>I had known.<br>I will have known. |
+
+### STATIVE VERBS – INCORRECT USAGE
+
+| Tense              | Example                                                                  |
+| ------------------ | ------------------------------------------------------------------------ |
+| continuous         | I am knowing.<br>I was knowing.<br>I will be knowing.                    |
+| perfect continuous | I have been knowing.<br>I had been knowing.<br>I will have been knowing. |
+
+`DYNAMIC/STATIVE VERBS` can be used in either way, depending on the context or meaning. Examples are **_have_**, **_think_**, and **_feel_**. These verbs are usually the most challenging because there’s no one rule; you have to think about each situation separately. Practice is essential. However, by paying careful attention, you can learn to use these unusual verbs correctly and confidently.
+
+### DYNAMIC/STATIVE VERBS – CORRECT USAGE
+
+|            Tense            | Example                                                                                 |
+| :-------------------------: | --------------------------------------------------------------------------------------- |
+| simple: <br>for possession  | I have a car.<br>I had a car.<br>I will have a car.                                     |
+| continuous:<br>for activity | I am having a good time.<br>I was having a good time. <br>I will be having a good time. |
+
+### DYNAMIC/STATIVE VERBS – INCORRECT USAGE
+
+|             Tense             | Example                                                              |
+| :---------------------------: | -------------------------------------------------------------------- |
+| continuous:<br>for possession | I am having a car.<br>I was having a car.<br>I will be having a car. |
+
+## VERBS: ALWAYS STATIVE
+
+<table class="res_nice_table">
+	<colgroup>
+		<col style="width: 20%;">
+		<col style="width: 80%;">
+	</colgroup>
+	<tbody>
+	<tr>
+		<th colspan="2" style="text-align: center">MENTAL STATES
+	</th></tr>
+	<tr>
+		<td colspan="2" style="text-align: center">admire, believe, desire, doubt, know, need, realize, recognize, suppose, understand, want</td>
+	</tr>
+	<tr>
+		<td>Common Errors</td>
+		<td style="text-align: center">know, need, understand</td>
+	</tr>
+	<tr>
+		<td>Correct Usage</td>
+		<td class="col_left text_normal">
+			• Yes, I know John.<br>
+			• We need some help.<br>
+			• Sorry, I don’t understand what you mean.
+		</td>
+	</tr>
+	<tr>
+		<th colspan="2" style="text-align: center">Emotional States
+	</th></tr>
+	<tr>
+		<td colspan="2" style="text-align: center">adore, amaze, appreciate, astonish, care, dislike, envy, fear, hate, like, loathe, love, mind, please, prefer, surprise</td>
+	</tr>
+	<tr>
+		<td>Common Errors</td>
+		<td style="text-align: center">love, like, hate</td>
+	</tr>
+	<tr>
+		<td>Correct Usage</td>
+		<td class="col_left text_normal">
+			• The kids love ice cream.<br>
+			• She likes you.<br>
+			• I hate washing dishes.
+		</td>
+	</tr>
+	<tr>
+		<th colspan="2" style="text-align: center">Possession
+	</th></tr>
+	<tr>
+		<td colspan="2" style="text-align: center">belong, owe, own, possess</td>
+	</tr>
+	<tr>
+		<td>Common Errors</td>
+		<td style="text-align: center">own</td>
+	</tr>
+	<tr>
+		<td>Correct Usage</td>
+		<td class="col_left text_normal">
+			• Who owns that car?<br>
+			• It’s mine. I own it.<br>
+		</td>
+	</tr>
+	<tr>
+		<th colspan="2" style="text-align: center">Senses
+	</th></tr>
+	<tr>
+		<td colspan="2" style="text-align: center">hear</td>
+	</tr>
+	<tr>
+		<th colspan="2" style="text-align: center">Other
+	</th></tr>
+	<tr>
+		<td colspan="2" style="text-align: center">consist of, contain, cost, deserve, equal, exist, involve, lack, matter, perceive, promise, resemble, seem</td>
+	</tr>
+</tbody></table>
+
+## VERBS: STATIVE OR DYNAMIC, DEPENDING ON THE SITUATION
+
+<table class="res_nice_table">
+	<colgroup>
+		<col style="width: 20%;">
+		<col style="width: 80%;">
+	</colgroup>
+	<tbody>
+	<tr>
+		<th colspan="2" style="text-align: center">MENTAL STATES
+	</th></tr>
+	<tr>
+		<td colspan="2" style="text-align: center">consider, forget, imagine, remember, think</td>
+	</tr>
+	<tr>
+		<td>I think<br>
+			(stative)
+		</td>
+		<td class="col_left">refers to an opinion<br>
+		<span class="text_size_med">• What do you think?<br>
+		• I think you should accept that job offer.</span></td>
+	</tr>
+	<tr>
+		<td>I am thinking<br>
+			(dynamic)
+		</td>
+		<td class="col_left">refers to the act of thinking<br>
+		<span class="text_size_med">• What are you thinking about?<br>
+		• I’m thinking about what to do next.</span></td>
+	</tr>
+	<tr>
+		<th colspan="2" style="text-align: center">POSSESSION
+	</th></tr>
+	<tr>
+		<td colspan="2" style="text-align: center">have</td>
+	</tr>
+	<tr>
+		<td>I have<br>
+			(stative)
+		</td>
+		<td class="col_left">refers to possession or relation<br>
+		<span class="text_size_med">• I have $120 with me right now.<br>
+		• I have 3 kids.</span></td>
+	</tr>
+	<tr>
+		<td>I am having<br>
+			(dynamic)
+		</td>
+		<td class="col_left">refers to an activity <br>
+		<span class="text_size_med">• I am having a party this Friday.<br>
+		• We’re having a great time.</span></td>
+	</tr>
+	<tr>
+		<th colspan="2" style="text-align: center">SENSES
+	</th></tr>
+	<tr>
+		<td colspan="2" style="text-align: center">feel, taste, smell, see</td>
+	</tr>
+	<tr>
+		<td>It tastes…<br>
+			(stative)
+		</td>
+		<td class="col_left">refers to a quality or state of being<br>
+		<span class="text_size_med">• The cake? It tastes delicious.<br>
+	</span></td></tr>
+	<tr>
+		<td>She is tasting…<br>
+			(dynamic)
+		</td>
+		<td class="col_left">refers to an activity<br>
+		<span class="text_size_med">• She’s tasting the soup to check if it needs more salt.<br>
+	</span></td></tr>
+	<tr>
+		<th colspan="2" style="text-align: center">OTHER
+	</th></tr>
+	<tr>
+		<td colspan="2" style="text-align: center">appear, be, cost, deny, include, look, sound, weigh</td>
+	</tr>
+	<tr>
+		<td>They are…<br>
+			(stative)
+		</td>
+		<td class="col_left">refers to a general condition or state<br>
+		<span class="text_size_med">• They are helpful, no matter what happens.<br>
+	</span></td></tr>
+	<tr>
+		<td>They are being…<br>
+			(dynamic)
+		</td>
+		<td class="col_left">refers to a temporary state<br>
+		<span class="text_size_med">• They are being helpful, under the circumstances.<br>
+	</span></td></tr>
+</tbody></table>
+
+Although stative verbs may seem complicated, you have now taken the first step to mastering them: you know that they exist! Soon, you will start noticing them while reading books, websites, and articles, as well as while listening to songs, shows, and presentations. Before long, you will begin using stative verbs correctly yourself.
