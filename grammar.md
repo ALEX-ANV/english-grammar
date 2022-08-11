@@ -417,3 +417,13 @@ We can often say things in two ways, in the active or the passive.
    Rice `is grown` in Valencia.
 
    (**Passive:** a more formal style)
+
+# Dynamic and Static Verbs
+
+Every English sentence must have a `VERB`. The verb could be classified as dynamic, stative, or both. A `DYNAMIC VERB` describes an action; a `STATIVE VERB` describes a condition. This classification is important because it determines how the verb can and cannot be used. Knowing the difference between stative and dynamic verbs will help you speak and write correctly and avoid basic errors in exams or emails, as well as in many social, academic, and business situations.
+
+## VERBS: DYNAMIC, STATIVE, OR BOTH?
+
+---
+
+`DYNAMIC VERBS` describe action. Examples are **_run_**, **_jump_**, **_work_**, **_play_**, **_eat_**, or **_drink_**. They are the most common type of verb and can be used correctly in all verb tenses and aspects. They are usually the easiest to learn.
