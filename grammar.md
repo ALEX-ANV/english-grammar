@@ -636,3 +636,7 @@ Every English sentence must have a `VERB`. The verb could be classified as dynam
 </tbody></table>
 
 Although stative verbs may seem complicated, you have now taken the first step to mastering them: you know that they exist! Soon, you will start noticing them while reading books, websites, and articles, as well as while listening to songs, shows, and presentations. Before long, you will begin using stative verbs correctly yourself.
+
+# Present Perfect
+
+[Present perfect simple and present perfect continuous](https://test-english.com/grammar-points/b1/present-perfect-simple-present-perfect-continuous/1)
