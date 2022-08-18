@@ -640,3 +640,7 @@ Although stative verbs may seem complicated, you have now taken the first step t
 # Present Perfect
 
 [Present perfect simple and present perfect continuous](https://test-english.com/grammar-points/b1/present-perfect-simple-present-perfect-continuous/1)
+
+# Past Simple & Past Continuous & Past Perfect
+
+![past tenses](https://github.com/ALEX-ANV/english-grammar/blob/main/past-tenses.jpeg?raw=true)
