@@ -161,73 +161,8 @@ _Examples:_
 
 # Question formation
 
-> 1. How long **have you** been waiting?
->
->    How many children **does your sister** have?
->
->    **Should we** buy her a present?
->
-> 2. Why **didn't you** like the film>
->
->    **Isn't this** a beautiful place?
->
->    **Don't you** have to be at school today?
->
-> 3. **What** are they talking **about**?
->
->    **Who** does this bag belong **to**?
->
-> 4. **Who lives** in that house?
->
->    **How many people follow** you on Twitter?
-
-1. We make questions with tenses where there is an auxiliary verb (_be_, _have_, etc.) and with modal verbs (_should_, _must_, etc.) by inverting the subject and the auxiliary / modal verb.
-
-   With the present and past simple we add the auxiliary verb _do_ / _does_ or _did_ before the subject.
-
-2. We often use negative questions to show surprise when we expect somebody to agree with us, or to check whether something is true.
-
-3. If a verb is normally followed by a preposition, e.g. _talk about sth_, the preposition comes at the end of the question, not at the beginning. **NOT** ~~About what are you talking?~~
-
-   We often just use the question word and the preposition, e.g.
-
-   **A** _I'm thinking._
-
-   **B**. _What about?_
-
-4. Whe _who / what / which_, etc., is the **subject** of questions in the present or past simple, we don't use _do_ / _did_ e.g. _Who wrote this?_ **NOT** ~~Who did write this?~~
-
-## indirect questions
-
-> Could you tell ne **what time the shop next door opens**?
->
-> Do you know **if (whether) Mark's coming to the meeting**?
-
-- We use indirect questions when we want to ask a question in a more polite way.
-  We begin with a phrase such as _Can / Could you tell me...? Do you know...? Do you think...? Do you remember...? Would you mind telling me...? Do you have any ides...?_
-
-- Compare:
-
-  What time does the post office open? (direct question) and _Could you tell me what time the post office opens?_ (indirect question)
-
-- In indirect questions, the order is subject + verb. _Can you tell me where **it is**?_ **NOT** ~~Can you tell me where **is it**?~~
-
-- We don't use _do / did_ in the second part of the question. _Do you know where he lives?_ **NOT** ~~...where does he live?~~
-
-- You can use _if_ or _whether_ in questions without a question word and after:
-  _Can you tell me, Do you know, etc._
-
-> **Other expressions followed by the word order of indirect questions**
->
-> _The word order of indirect questions is used after:_
->
-> _I wonder ..., e.g. **I wonder** why they didn't come._
->
-> _I'm not sure..., e.g. **I'm not** sure what time is starts._
->
-> _I can't remember..., e.g. **I can't remember** where I left my phone._
->
-> _I'd like to know..., e.g. **I'd like to know** what time you're coming home._
+![questions](https://github.com/ALEX-ANV/english-grammar/blob/main/questions.jpg?raw=true)
+![informal-questions](https://github.com/ALEX-ANV/english-grammar/blob/main/informal-questions.jpeg?raw=true)
 
 # Phrasal verbs
 
@@ -644,11 +579,6 @@ Although stative verbs may seem complicated, you have now taken the first step t
 # Past Simple & Past Continuous & Past Perfect
 
 ![past tenses](https://github.com/ALEX-ANV/english-grammar/blob/main/past-tenses.jpeg?raw=true)
-
-# Question formation
-
-![questions](https://github.com/ALEX-ANV/english-grammar/blob/main/questions.jpg?raw=true)
-![informal-questions](https://github.com/ALEX-ANV/english-grammar/blob/main/informal-questions.jpeg?raw=true)
 
 # Reactions
 
