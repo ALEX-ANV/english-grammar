@@ -648,6 +648,7 @@ Although stative verbs may seem complicated, you have now taken the first step t
 # Question formation
 
 ![questions](https://github.com/ALEX-ANV/english-grammar/blob/main/questions.jpg?raw=true)
+![informal-questions](https://github.com/ALEX-ANV/english-grammar/blob/main/informal-questions.jpg?raw=true)
 
 # Reactions
 
