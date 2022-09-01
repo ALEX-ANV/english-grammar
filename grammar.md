@@ -644,3 +644,11 @@ Although stative verbs may seem complicated, you have now taken the first step t
 # Past Simple & Past Continuous & Past Perfect
 
 ![past tenses](https://github.com/ALEX-ANV/english-grammar/blob/main/past-tenses.jpeg?raw=true)
+
+# Question formation
+
+![questions](https://github.com/ALEX-ANV/english-grammar/blob/main/questions.jpg?raw=true)
+
+# Reactions
+
+![reactions](https://github.com/ALEX-ANV/english-grammar/blob/main/reactions.jpg?raw=true)
