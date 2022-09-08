@@ -583,3 +583,7 @@ Although stative verbs may seem complicated, you have now taken the first step t
 # Reactions
 
 ![reactions](https://github.com/ALEX-ANV/english-grammar/blob/main/reactions.jpg?raw=true)
+
+# So/Such
+
+![so-such](https://github.com/ALEX-ANV/english-grammar/blob/main/so-such.jpeg?raw=true)
