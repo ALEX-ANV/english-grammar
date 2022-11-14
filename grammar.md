@@ -587,3 +587,9 @@ Although stative verbs may seem complicated, you have now taken the first step t
 # So/Such
 
 ![so-such](https://github.com/ALEX-ANV/english-grammar/blob/main/so-such.jpeg?raw=true)
+
+# Conditionals
+
+![real-conditionals](https://github.com/ALEX-ANV/english-grammar/blob/main/real-conditionals.jpg?raw=true)
+
+![hypothetical-conditionals](https://github.com/ALEX-ANV/english-grammar/blob/main/hypothetical-conditionals.jpg?raw=true)
