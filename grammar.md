@@ -593,3 +593,11 @@ Although stative verbs may seem complicated, you have now taken the first step t
 ![real-conditionals](https://github.com/ALEX-ANV/english-grammar/blob/main/real-conditionals.jpg?raw=true)
 
 ![hypothetical-conditionals](https://github.com/ALEX-ANV/english-grammar/blob/main/hypothetical-conditionals.jpg?raw=true)
+
+# News
+
+![news](https://github.com/ALEX-ANV/english-grammar/blob/main/news.jpg?raw=true)
+
+# Present perfect simple versus continuous
+
+![present-perfect-simple-vs-continuous](https://github.com/ALEX-ANV/english-grammar/blob/main/present-perfect-simple-vs-continuous.jpg?raw=true)
