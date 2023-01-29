@@ -611,3 +611,7 @@ Although stative verbs may seem complicated, you have now taken the first step t
 [Rules](https://test-english.com/grammar-points/b1-b2/zero-first-conditional-future-time-clauses/)
 
 [Tasks](https://english4real.com/practice/b2_g-f-time-clauses.html)
+
+# Emergencies phrases
+
+[Link](https://www.speaklanguages.com/english/phrases/emergencies)
