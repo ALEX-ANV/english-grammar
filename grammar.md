@@ -601,3 +601,7 @@ Although stative verbs may seem complicated, you have now taken the first step t
 # Present perfect simple versus continuous
 
 ![present-perfect-simple-vs-continuous](https://github.com/ALEX-ANV/english-grammar/blob/main/present-perfect-simple-vs-continuous.jpg?raw=true)
+
+# Articles, Quantifiers, Relative clauses
+
+![articles](https://github.com/ALEX-ANV/english-grammar/blob/main/articles.jpg?raw=true)
