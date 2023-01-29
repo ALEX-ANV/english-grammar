@@ -605,3 +605,9 @@ Although stative verbs may seem complicated, you have now taken the first step t
 # Articles, Quantifiers, Relative clauses
 
 ![articles](https://github.com/ALEX-ANV/english-grammar/blob/main/articles.jpg?raw=true)
+
+# Zero and first conditional and future time clauses
+
+[Rules](https://test-english.com/grammar-points/b1-b2/zero-first-conditional-future-time-clauses/)
+
+[Tasks](https://english4real.com/practice/b2_g-f-time-clauses.html)
