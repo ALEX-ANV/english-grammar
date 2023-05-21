@@ -667,6 +667,6 @@ They = he or she
 
 ![memories](https://github.com/ALEX-ANV/english-grammar/blob/main/memories.jpg?raw=true)
 
-# narrative tenses
+# Narrative tenses
 
 ![narrative-tenses](https://github.com/ALEX-ANV/english-grammar/blob/main/narrative-tenses.jpg?raw=true)
