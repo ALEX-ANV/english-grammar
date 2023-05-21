@@ -674,3 +674,7 @@ They = he or she
 # Used and would
 
 ![would-used-to](https://github.com/ALEX-ANV/english-grammar/blob/main/would-used-to.jpg?raw=true)
+
+# Get
+
+![get](https://github.com/ALEX-ANV/english-grammar/blob/main/get.jpg?raw=true)
