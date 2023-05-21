@@ -620,6 +620,10 @@ Although stative verbs may seem complicated, you have now taken the first step t
 
 ![relative-clauses](https://github.com/ALEX-ANV/english-grammar/blob/main/relative-clauses.jpg?raw=true)
 
+# Reduced relative clauses
+
+![relative-clauses](https://github.com/ALEX-ANV/english-grammar/blob/main/reduced-relative-clauses.jpg?raw=true)
+
 # Verbs patterns with -ING and infinite
 
 ![relative-clauses](https://github.com/ALEX-ANV/english-grammar/blob/main/verbs-patterns.jpg?raw=true)
@@ -631,6 +635,8 @@ Although stative verbs may seem complicated, you have now taken the first step t
 [Articles](https://www.englishpage.com/articles/index.htm)
 
 [Exercises](https://www.englishpage.com/articles/articles_7.htm)
+[Exercises](https://www.englishpage.com/articles/articles_10.htm)
+[Exercises](https://www.englishpage.com/articles/articles_11.htm)
 
 [Flashcards](https://www.englishpage.com/articles/articles-flashcards.htm)
 
