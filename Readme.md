@@ -678,3 +678,7 @@ They = he or she
 # Get
 
 ![get](https://github.com/ALEX-ANV/english-grammar/blob/main/get.jpg?raw=true)
+
+[Phrasal verbs](https://onlineteachersuk.com/phrasal-verbs-get/)
+
+[Video (How does get mean)](https://youtu.be/VdhE6neiah0)
