@@ -615,3 +615,22 @@ Although stative verbs may seem complicated, you have now taken the first step t
 # Emergencies phrases
 
 [Link](https://www.speaklanguages.com/english/phrases/emergencies)
+
+# Relative clauses
+
+![relative-clauses](https://github.com/ALEX-ANV/english-grammar/blob/main/relative-clauses.jpg?raw=true)
+
+# Verbs patterns with -ING and infinite
+
+![relative-clauses](https://github.com/ALEX-ANV/english-grammar/blob/main/verbs-patterns.jpg?raw=true)
+
+# The definite article
+
+[Rules](https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/the-definite-article)
+
+[Articles](https://www.englishpage.com/articles/index.htm)
+
+[Exercises](https://www.englishpage.com/articles/articles_7.htm)
+
+[Flashcards](https://www.englishpage.com/articles/articles-flashcards.htm)
+
