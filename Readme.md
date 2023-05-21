@@ -640,3 +640,33 @@ Although stative verbs may seem complicated, you have now taken the first step t
 
 [Flashcards](https://www.englishpage.com/articles/articles-flashcards.htm)
 
+# Definitely/probably/likely/unlikely
+
+![levels](https://github.com/ALEX-ANV/english-grammar/blob/main/levels.jpg?raw=true)
+
+
+# Future perfect and future continuous
+
+![future-perfect-and-continuous.jpg](https://github.com/ALEX-ANV/english-grammar/blob/main/future-perfect-and-continuous.jpg?raw=true)
+
+[Test](https://test-english.com/grammar-points/b2/future-forms-expressing-future-time/)
+
+# 'it' and 'there' as dummy subjects
+
+you/one/they always has problem (written English)
+They = he or she
+
+[Rules](https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/it-there-dummy-subjects)
+
+[Exercises](https://test-english.com/grammar-points/b2/there-and-it/2/)
+
+[Exercises](https://test-english.com/grammar-points/a1/object-pronouns/)
+
+
+# Talking about memories
+
+![memories](https://github.com/ALEX-ANV/english-grammar/blob/main/memories.jpg?raw=true)
+
+# narrative tenses
+
+![narrative-tenses](https://github.com/ALEX-ANV/english-grammar/blob/main/narrative-tenses.jpg?raw=true)
